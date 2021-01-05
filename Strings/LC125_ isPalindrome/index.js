@@ -1,8 +1,6 @@
-const { white } = require("chalk");
-
 /**
     https://leetcode.com/problems/valid-palindrome/
-    reverse to check isPalindrome
+    -> reverse to check isPalindrome
 */
 
 function isPalindrome(s) {
